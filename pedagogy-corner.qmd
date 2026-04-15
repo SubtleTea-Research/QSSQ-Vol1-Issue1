@@ -1,0 +1,204 @@
+---
+format:
+  html:
+    toc-title: "Corner contents"
+---
+
+# Pedagogy Corner {.unnumbered}
+
+<div id='pedagogy-blurb'>
+
+>The _Pedagogy Corner_ is a recurring feature in _Quantitative Social Science
+>Quarterly_ where we discuss frameworks for learning and teaching the theory and
+>practice of quantitative social science. Many of these topics will be applicable
+>to science and engineering fields outside of social science, despite this
+> focus. If unsure about whether the advice here applies to your
+>work, I recommend seeking out a trusted advisor in your field who can help you
+>decide. 
+
+</div>
+
+---
+
+In this issue's _Corner_ I present my template for writing technical reports and
+journal articles. Good, lively writing can enhance your reports, and creativity
+is encouraged, but within the guidelines below. I believe technical writing can
+be fun and humane. But the first goal of technical writing is efficient
+communication for tactical advantage. 
+
+Consistent structures help the writer and reader of reports, alike, especially
+if they share regular correspondence with each other and others in a community
+with shared standards. Human working memory is limited. Standards like the one I
+present in this chapter reduce variance in content styles, meaning people can
+more easily infer how different pieces of information fit together in a report.
+
+My goal and hope, in fact, is that this
+structure acts like the uneven bars in gymnastics, and your own unique work,
+reader, is the gymnast. Or, perhaps, like the internal body structure of an
+airplane. This report structure is rigid so we can fly.
+
+My goal and hope, in fact, is that this
+structure acts like the uneven bars in gymnastics, and your own unique work,
+reader, is the gymnast. Or, perhaps, like the internal body structure of an
+airplane. This report structure is rigid so we can fly.
+
+
+
+## The IMRaD/IMAD System for Technical Writing
+
+I honed this method teaching Stanford graduate and undergraduate students in new
+courses I developed at the behest of the Department of Environmental Social
+Science of the Stanford Doerr School of Sustainability. This
+framework already has helped dozens of students to structure not just their
+writing, but also _their research ideas_. 
+ 
+
+###  Designing and Writing for Social Impact
+
+As a quantitative social science practitioner as well as a researcher, I want 
+to make sure my work has some concrete grounding in advancing the betterment of
+society somehow. In my [Letter](publisher-letter.qmd) to introduce this 
+inaugural issue I explain why ethics are so critical for social scientists
+today: there are many temptations to develop social systems built on
+surveillance and conformity. 
+
+The approach I take to quantitative social science
+assumes people can be trusted to act in their own best interest, and that this
+self-interest can boost participation in activities that are _sustainable_ as
+well as adaptive for an individual, meaning personally beneficial compared to
+alternative legacy practices. 
+
+At the same time, we cannot just write manifestos and hope to have a concrete
+impact. That means we frame the motivation in such a way that anticipates the
+mathematical, computer, or experimental model that structured our quantitative
+analyses. For example, (deterministic) differential equation 
+models of behavior prevalence are convenient because we can write exact
+solutions, calculating integrals numerically if necessary. This simplicity comes
+at a price: we have to unrealistically assume that there are infinitely many
+people in the population and they can and do interact with any one of the 
+others. Therefore, we cannot summarize our results as if a model prediction is a
+prediction of the real world. Models only ever predict model outcomes. 
+
+Scientists and other technical folks who need to communicate the big lessons of
+their research for the public benefit from specific instructions on how to do
+this well. It is difficult enough to do rigorous research. It feels like writing
+requires us to switch gears away from the mathematical, technological, and
+logical puzzles of science. 
+
+Despite the challenge of switching gears to efficiently communicate your
+research, many of us with master- or doctorate-level
+research credentials never received direct writing instruction. 
+Graduates, then, tend to be self-taught writers.
+
+My belief is that a little writing guidance can go a long way, which motivated
+me to write this guide. I use it for every report or journal article I write. I
+hope you find it useful as well.
+
+<!--
+Academic writing tends to focus on the _literature review_ where one must trot
+out every minimally prominent windbag that every studied a subject, just to
+clearly signal one's expertise and worthines. Unfortunately, this has led to a
+cultural plateau in academic writing, and indicative of a plateau in academic
+thinking as well, since our writing reflects our thinking. 
+
+On recognizing this plateau in academic vibrancy, I finally and fully committed
+to launching my independent business and nonprofit. But I promise you can be
+vibrant and also meet requirements of 
+when I realized that I want to be paid fairly for my work, and I want my work 
+to have more immediate impact. I do not know of one academic who is happy with
+the current publishing paradigm. 
+
+more immediately available 
+realized that something more is needed to complement existing academic and 
+has reached is unable
+to rise further to meet the challenge of the moment: rapid changes in social and
+financial organization and stability worldwide, and a rapidly heating and
+degrading biosphere, mean uncertainty is beginning to saturate policymaking so
+that policymaking itself may become useless. 
+-->
+
+### Structure Reduces Cognitive Load for Writer and Reader
+
+We need specific instructions because doing science or engineering work
+already takes a lot of precision and skill to achieve. We are not out to
+invent new metaphors and invent fanciful explanations for data that speak for
+themselves. That being said, there is room for vibrant humanity as long as the
+logical structure remains intact.
+
+In simple terms, our goal in technical writing is to explain how stuff 
+works [](). In science, we need to explain our model of the world, whether we do
+observational, experimental, computational, or mathematical scientific analyses.
+If we gather data, we do not just gather whatever data we fancy on a given day. 
+We gather data according to a scientific model of the world: observations
+correspond to theoretical model variables. Model variables exist because they
+have some meaning related to the phenomenon under investigation. They
+either 
+Either they are
+variables that affect the value of some other which are hypothesized causally related by 
+what our model of the world is,
+and how we theorize the parts of the model interact, and what we hypothesize
+will happen as interactions progress through time. 
+
+Not only do we need to make it easy on ourselves to write our reports, but
+others need to be able to read it easily. Adopting shared expectations about how
+to structure reports means lower cognitive load for those who adopt this
+structure, or something similar.
+
+This guide combines extends the standard presentation of IMRaD, which I learned
+from @TK.
+
+### A Brief Annotated Recommended Reading List
+
+I like reading books about writing, and reading anything substantial and
+well-written will help your writing. Before sharing my system for developing and
+writing your scientific studies, I will share some of my favorite advice from
+a sampling of writing books. I mostly like to leaf around books on
+writing because most of them that I find are not for scientists. 
+These books contain advice for people who are perhaps writing more fiction, or
+screenplays, including advice on finding writing agents. I think many scientists
+would love to be reimbursed so that we could even pay an agent! 
+
+Here are a few books on writing that stuck with me. I point towards some
+specific parts of the books as an entré, but 
+
+- Ch. 17 or whatev of technical writing chapter, ie how stuff works
+- Anne Lamott _Bird by Bird_
+- _A Writer's Time_
+- Annie Dillard maybe: "Aim for the chopping block."
+
+
+
+
+
+### Introduction
+
+- **Context & Background**: Provides adequate background and sets context.
+- **Problem Statement**: Clear identification of the research gap.
+- **Literature Review**: Demonstrates awareness of existing research and its limitations.
+- **Research Objective(s)**: Clear and focused research question or hypothesis.
+- **Significance & Impact**: Clearly explains the importance of the research.
+
+### Methods (or Model)
+
+- **Study Design**: Clearly describes the research design and rationale.
+- **Model dynamics and outcomes, including relevant equations**: Describe what happens when agents interact in the model; describe social structure of interactions. Describe the outcome variables and their measure (e.g., calculate the rate of adaptation fixation and mean time to fixation).
+- **Computational experiment structure**: Detailed account of data gathering techniques. Include a table of agent attributes, model parameters, and output variables.
+- **Implementation details**: Include a paragraph that describes which software tools you used and provides a link to your code repository on GitHub.
+- **Completeness**: All model mechanisms and analytical design are included in sufficient detail so someone else can reproduce your results. The teaching team will actually do this.
+
+### Results (or Analysis)
+
+- **Results/Analysis Summary**: Concise summary of key findings without interpretation.
+- **Data Presentation**: Clear and accurate presentation of data.
+- **Visual Aids**: Appropriate use of figures, tables, and graphs.
+- **Quantitative Reporting**: Includes appropriate statistical analysis and results.
+- **Clarity**: Results are presented clearly and logically.
+
+### Discussion
+
+- **Interpretation of Results**: Clear explanation of the significance of the findings.
+- **Comparison with Previous Work**: Relates findings to existing literature.
+- **Broader Implications**: Discusses the broader implications of the findings.
+- **Acknowledgment of Limitations**: Identifies study limitations and future research directions.
+- **Conclusion:** Strong and concise conclusion that ties the study together.
+

@@ -24,6 +24,13 @@ $navbar-bg: #222;
 $navbar-fg: #ffffff;
 $navbar-hover: #f4d3e1;
 
+div#pedagogy-blurb {
+  line-height: 1.2rem;
+  margin-top: 20px;
+  font-size: 18px;
+  font-style: italic;
+}
+
 
 // Hide the "Front Matter" title for all-in-one title + copyright + TOC index.qmd
 #fm-placeholder h1  {

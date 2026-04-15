@@ -1,5 +1,64 @@
-# The Setup
+# Tipping-points in Promoting Women in Leadership
 
-After several months of back-and-forth in 2013, Elisa wrote to Jeffrey in an
-email, "\[W\]oody wrote to me to say yes! thank you so much". If we look back
-for previous references to this 
+<!-- <h2 style="font-size: 20px; text-align: justify;"> -->
+<h2 style="font-size: 20px; text-align: center; margin-top: 10px;
+margin-bottom: 5px;">
+  How Intentional Overrepresentation of Women Leaders Could Bring
+  Long-term Equal Gender Representation in Leadership
+</h2>
+
+::: {style="margin-top: 20px; margin-bottom: 30px; text-align: center; size: 1.2rem; font-weight: 600;"}
+Summary
+:::
+
+Gender wage parity has narrowed over the past decades, meaning that women are
+closer to making the same amount as a man for the same job and work. Despite
+limited progress, women continue to face a "baby tax", trading time with their
+newborn for getting set back a spot or two on the corporate ladder. Oftentimes,
+even women who are the primary breadwinner still do more housework and childcare
+than male partners (in heterosexual partnerships). In 2025, a Brazilian man
+murdered two women managers at his company because he didn't like women bosses
+[@DW_Feb2025]. Chauvinist social norms punish men who submit to female
+leadership, which suppresses progress towards normalizing women leadership. In
+this report I develop an evolutionary game theory model of gendered coordination
+to show that chauvinist social norms in an organization can be disarmed by
+temporarily assigning significantly more women than men to leadership roles.
+The model calculates what prevalence of women leaders is required to cross the
+critical threshold that makes chauvinism too costly to maintain.
+This threshold increases as a function of the severity of social sanction agains
+men followers and decreases with the initial prevalence of men leaders, but the
+relationships are non-linear. We calculate the critical threshold by solving a
+set of ordinary differential equations representing stylized gender coordination
+dynamics in an evolutionary game theory model. This analysis reveals one
+potentially effective strategy to achieve long-term gender parity in leadership:
+intentionally bias leadership assignments towards women over a short period to
+achieve fair, equal representation in the long-term.
+
+
+## Introduction
+
+
+
+## Model
+
+### Model Components
+
+- Parameter table
+
+### Payoff Matrices
+
+### Model Dynamics
+
+### Outcome Measures
+
+
+## Analysis
+
+
+
+
+## Discussion
+
+
+
+
