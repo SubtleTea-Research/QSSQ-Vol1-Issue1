@@ -1,0 +1,21 @@
+# Cover and Front Matter {#fm-placeholder .unnumbered}
+
+<br>
+
+![](images/Cover.svg)
+
+<br>
+
+::: {.text-center style="font-size: 0.8rem;"}
+
+© 2026 Agile Publishers and the Authors
+
+All rights reserved.
+
+<br>
+
+Published by **Agile Publishers** in Merced, California. 
+
+Agile Publishers is an imprint of _SubtleTea Solutions, LLC_.
+
+:::

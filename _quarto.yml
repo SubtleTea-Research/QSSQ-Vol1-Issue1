@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Instituto Dourados Quarterly Journal"
+  subtitle: "2026 Volume 1, Issue 1"
+  date: today
+  sidebar: 
+    logo: images/Cover.png
+
+  chapters:
+    - index.qmd
+    - directors-letters.qmd
+    - feature1.qmd
+    - feature2.qmd
+    - business-update.qmd
+    - philanthropy-corner.qmd
+    - benediction.qmd
+  navbar:
+    collapse: true
+    pinned: true
+    search: true
+
+bibliography: refs.bib
+
+format:
+  html:
+    toc: true
+    toc-title: "Chapter contents"
+    html-math-method: katex
+    theme: 
+      light:
+        - theme-light.scss
+        - styles.scss
+      dark:
+        - darkly 
+        - theme-dark.scss
+        - styles.scss
+    fontsize: 1.0em
+    linestretch: 1.7
+    number-sections: true
+    number-depth: 3
