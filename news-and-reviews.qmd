@@ -1,9 +1,4 @@
----
-author: Matthew A. Turner
----
-
-
-# News and Reviews
+# News and Reviews {.unnumbered}
 
 ## "He's not a Professor" Jiang and Ox Talks Predict Collapse
 

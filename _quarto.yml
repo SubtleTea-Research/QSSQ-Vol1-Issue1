@@ -15,6 +15,7 @@ book:
     - feature2.qmd
     - news-and-reviews.qmd
     - pedagogy-corner.qmd
+    - business-of-science.qmd
     - benediction.qmd
   navbar:
     collapse: true
